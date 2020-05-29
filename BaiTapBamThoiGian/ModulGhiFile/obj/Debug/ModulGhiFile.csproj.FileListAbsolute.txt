@@ -1,0 +1,5 @@
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\BaiTapBamThoiGian\ModulGhiFile\bin\Debug\ModulGhiFile.dll
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\BaiTapBamThoiGian\ModulGhiFile\bin\Debug\ModulGhiFile.pdb
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\BaiTapBamThoiGian\ModulGhiFile\obj\Debug\ModulGhiFile.csproj.CoreCompileInputs.cache
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\BaiTapBamThoiGian\ModulGhiFile\obj\Debug\ModulGhiFile.dll
+D:\1.MonHoc\PhatTrienPhanMem\BaiTap\BaiTapBamThoiGian\ModulGhiFile\obj\Debug\ModulGhiFile.pdb
